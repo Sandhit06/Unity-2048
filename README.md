@@ -4,7 +4,7 @@
 A smooth, modern take on the classic puzzle game <b>2048</b>, built using <b>Unity</b> for rich graphics and <b>.NET</b> for scalable backend logic.
 </p>
 
-![Game Demo](/2048.jpg)
+![Game Image](/2048.jpg)
 
 ---
 
@@ -87,6 +87,9 @@ git clone https://github.com/Sandhit06/Unity-2048.git
 - ✅ Android APK (touch support)
 
 ## Demo
+
+https://github.com/user-attachments/assets/ba182f69-730f-4220-8f0d-0659dd6ce0e4
+
 
 ## Still need help?
 Open an issue on our GitHub repository, and we will help you as soon as possible.
